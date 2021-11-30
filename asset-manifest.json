@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://fredthem.github.io/csb-wudxr/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://fredthem.github.io/csb-wudxr/static/js/main.a0810b39.chunk.js",
+    "main.js.map": "https://fredthem.github.io/csb-wudxr/static/js/main.a0810b39.chunk.js.map",
+    "runtime-main.js": "https://fredthem.github.io/csb-wudxr/static/js/runtime-main.863df777.js",
+    "runtime-main.js.map": "https://fredthem.github.io/csb-wudxr/static/js/runtime-main.863df777.js.map",
+    "static/js/2.ce721c55.chunk.js": "https://fredthem.github.io/csb-wudxr/static/js/2.ce721c55.chunk.js",
+    "static/js/2.ce721c55.chunk.js.map": "https://fredthem.github.io/csb-wudxr/static/js/2.ce721c55.chunk.js.map",
+    "index.html": "https://fredthem.github.io/csb-wudxr/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://fredthem.github.io/csb-wudxr/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ce721c55.chunk.js.LICENSE.txt": "https://fredthem.github.io/csb-wudxr/static/js/2.ce721c55.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.863df777.js",
+    "static/js/2.ce721c55.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.a0810b39.chunk.js"
+  ]
+}
